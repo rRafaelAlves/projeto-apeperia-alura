@@ -32,3 +32,10 @@
 
     margin-bottom: 1rem;
 }
+
+@media screen and (min-width: 748px) {
+ .sobre{
+    display: flex;
+    
+ }   
+}
